@@ -1,0 +1,15 @@
+/Users/aleksejivanov/Documents/Учебная/Example/Example001_HelloConsole/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser
+/Users/aleksejivanov/Documents/Учебная/Example/Example001_HelloConsole/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.deps.json
+/Users/aleksejivanov/Documents/Учебная/Example/Example001_HelloConsole/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.runtimeconfig.json
+/Users/aleksejivanov/Documents/Учебная/Example/Example001_HelloConsole/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.dll
+/Users/aleksejivanov/Documents/Учебная/Example/Example001_HelloConsole/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.pdb
+/Users/aleksejivanov/Documents/Учебная/Example/Example001_HelloConsole/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.AssemblyReference.cache
+/Users/aleksejivanov/Documents/Учебная/Example/Example001_HelloConsole/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejivanov/Documents/Учебная/Example/Example001_HelloConsole/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfoInputs.cache
+/Users/aleksejivanov/Documents/Учебная/Example/Example001_HelloConsole/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfo.cs
+/Users/aleksejivanov/Documents/Учебная/Example/Example001_HelloConsole/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.CoreCompileInputs.cache
+/Users/aleksejivanov/Documents/Учебная/Example/Example001_HelloConsole/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.dll
+/Users/aleksejivanov/Documents/Учебная/Example/Example001_HelloConsole/Example002_HelloUser/obj/Debug/net6.0/refint/Example002_HelloUser.dll
+/Users/aleksejivanov/Documents/Учебная/Example/Example001_HelloConsole/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.pdb
+/Users/aleksejivanov/Documents/Учебная/Example/Example001_HelloConsole/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.genruntimeconfig.cache
+/Users/aleksejivanov/Documents/Учебная/Example/Example001_HelloConsole/Example002_HelloUser/obj/Debug/net6.0/ref/Example002_HelloUser.dll
